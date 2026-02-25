@@ -13,8 +13,8 @@ Victor Springs is a comprehensive property rental platform that connects tenants
 
 ## Repository Links
 
-- **Frontend Repository:** https://github.com/wachira567/VenueVibe_Frontend
-- **Backend Repository:** https://github.com/wachira567/VenueVibe_Backend
+- **Frontend Repository:** 
+- **Backend Repository:** 
 
 ## Features
 
